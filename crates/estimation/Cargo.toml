@@ -1,5 +1,5 @@
 [package]
-name.workspace = true
+name = "estimation"
 version.workspace = true
 edition.workspace = true
 

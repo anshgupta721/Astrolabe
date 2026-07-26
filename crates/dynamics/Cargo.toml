@@ -1,5 +1,5 @@
 [package]
-name.workspace = true
+name = "dynamics"
 version.workspace = true
 edition.workspace = true
 
