@@ -4,7 +4,7 @@ resolver = "2"
 members = ["crates/dynamics", "crates/estimation", "crates/frames", "crates/sensors", "crates/time"]
 
 [workspace.package]
-name = "Azimuth"
+name = "azimuth"
 version = "0.1.0"
 edition = "2024"
 
